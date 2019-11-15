@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao|McLaren|Raleway|Yeon+Sung|Yeseva+One&display=swap');
+body{
+  justify-content: center;
+  align-items: center;
+
+  font-family: 'Sacramento',cursive;
+}
+
+h1{
+  font-family: 'Josefin Slab', serif;
+  font-size: 3em
+}
+
+h2{
+  font-size: 2em;
+  text-shadow: 12px 12px 2px rgba(125,116,135,0.80);
+}
+
+h3{
+  font-family: 'McLaren';
+  font-size: 40px;
+}
+
+h4{
+  font-family: 'Yeon+Sung';
+  font-size: 25px;
+}
+
+#fables01 p{
+  font-family: 'Yeseva+One';
+}
+
+#fables02 p{
+  font-family: 'Raleway';
+}
+
+#fable03 p{
+  font-family: 'Liu+Jian+Mao+Cao';
+  text-align: center;
+}
